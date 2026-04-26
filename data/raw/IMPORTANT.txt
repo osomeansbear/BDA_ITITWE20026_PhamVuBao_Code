@@ -1,0 +1,1 @@
+Since the raw data is too large, i could not upload the codebase with it. To run the system completely (from notebook 1 to 5), install the 2000 to 2024.csv files from this link: https://www.ncei.noaa.gov/pub/data/ghcn/daily/by_year/. Thank you
