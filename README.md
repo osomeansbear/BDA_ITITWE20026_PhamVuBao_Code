@@ -25,6 +25,7 @@ Project/
 
 ## Environment and requirements
 
+- Read the IMPORTANT.txt in /data/raw and download the raw csv files from 2000-2024 at https://www.ncei.noaa.gov/pub/data/ghcn/daily/by_year/
 - Python 3.10+
 - Apache Spark 4.1 (PySpark)
 - 8 GB+ RAM (Spark driver memory is set to 8 GB in each notebook)
